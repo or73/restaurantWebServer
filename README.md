@@ -1,8 +1,8 @@
-# restaurantWebServer
-Python Web Server &amp; DB Queries - CRUD
+# restaurantWebServer   
+Python Web Server &amp; DB Queries - CRUD   
 
-Build a web service in Python that uses a database ot implement CRUD operations.
-**CRUD**: **C**reate, **R**ead, **U**pdate, and **D**elete
+Build a web service in Python that uses a database ot implement CRUD operations.    
+**CRUD**: **C**reate, **R**ead, **U**pdate, and **D**elete    
 
 ## Objectives      
 1. Opening `http://localhost:8080/restaurants` lists all the restaurant names in the database   
